@@ -1,0 +1,75 @@
+1. Circuit breaker is a _______ switching and current interrupting device.
+(A) switching device
+(B) current interrupting device
+(C) switching and current interrupting device
+(D) voltage interrupting device
+
+2. Fuse is used for _____
+(A) Over voltage protection
+(B) Over current protection
+(C) Under voltage protection
+(D) Under current protection
+
+3. _____ is used for switching and power consuming devices.
+Ans. – Control gear
+
+4. The requirement of switch gear vary depending upon _____.
+(A) location
+(B) rating
+(C) local requirements
+(D) location, rating and local requirements
+
+5. Electrical substation equipment are either indoor or outdoor depending upon ____.
+(A) voltage rating
+(B) current rating
+(C) voltage and current rating
+(D) voltage rating and local conditions
+
+6. The separation of current carrying contacts in circuit breaker produces ____.
+(A) arc
+(B) noise
+(C) humming
+(D) buzzing
+
+7. ____ can be used for disconnecting a circuit under no current condition installed along with circuit breaker and opened after CB.
+Ans. - Isolator
+
+8. _____ divert the over voltages to earth and protect substation equipment.
+(A) Isolator
+(B) Lightning Arrester (LA)
+(C) Earthing Switch
+(D) Circuit breaker
+
+9. Fault in an electrical equipment is defined as a defect in its electrical circuit due to which current is _____ from intended path.
+(A) diverted
+(B) derived
+(C) delivered
+(D) produced
+
+10. Fault cannot be eliminated permanently but it can be minimized by _____.
+(A) improving system design
+(B) quality of the equipment
+(C) preventive maintenance
+(D) improving system design, quality of the equipment and preventive maintenance
+
+11. Find the odd one out.
+(A) Reversal of power
+(B) Power swings
+(C) Under frequency
+(D) Over current
+
+12. Fault current depends on _____.
+Ans. – Voltage level at the faulty point and total impedance up to fault
+
+13. The knowledge of fault current is necessary for ______.
+Ans. - rating, selecting etc. (all of these)
+
+14. Per unit system is used for _____.
+(A) symmetrical fault calculations
+(B) asymmetrical fault calculations
+
+15. In circuit breaker, after final arc extinction, a high voltage wave appears across CB contacts tending to re-establish the arc, and this wave is called _______.
+(A) Transient voltage
+(B) Recovery voltage
+(C) Transient Recovery Voltage (TRV)
+(D) Rate of Rise of Restriking Voltage (RRRV)
